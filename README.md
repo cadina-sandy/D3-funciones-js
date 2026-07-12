@@ -92,7 +92,8 @@ Incluye cuatro divs de colores que cambian a negro al hacer clic. También permi
 
 Puedes ver el proyecto publicado aquí:
 
-🔗 [Ver proyecto en GitHub Pages](https://cadina-sandy.github.io/D3-funciones-js/)
+🔗 [Ver proyecto ] https://cadina-sandy.github.io/D3-funciones-js/
+🔗 [Ver repo ] https://github.com/cadina-sandy/D3-funciones-js
 
 ---
 
